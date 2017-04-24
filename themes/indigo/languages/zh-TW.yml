@@ -1,0 +1,13 @@
+global:
+  search_input_hint: "搜尋"
+
+post:
+  continue_reading: "閱讀全文…"
+  last_updated: "最後更新時間："
+
+footer:
+  license: '格係採用<a rel="license" href="/license">Free 授權</a>'
+
+tag:
+  all: "全部"
+  tags: "標籤"
