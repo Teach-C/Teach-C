@@ -28,9 +28,6 @@ menu:
     target: _blank
   License:
     url: /license
-  #link:
-  #  text: 测试
-  #  url: /custom
 
 # 你的头像url
 avatar: /img/avatar.png
@@ -42,7 +39,7 @@ brand: /img/brand.jpg
 favicon: /favicon.ico
 
 # email
-email: mr.function.sharp#gmail.com
+email: Teach-C@outlook.com
 
 # 设置 Android L Chrome 浏览器状态栏颜色
 color: '#3F51B5'
