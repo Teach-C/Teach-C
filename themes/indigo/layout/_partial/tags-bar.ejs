@@ -21,13 +21,13 @@ if(type === 'categories' || type === 'tags'){ %>
             options.forEach(function(tag, i){
 
                 if(index <= 1) {
-                    order = i
+                    order = index
                 } else {
 
                     if( i < index - 1) {
-                        order = len - (index - 1) + i
+                        order = (index - 1) + i -len
                     } else {
-                        order = i - (index - 1)
+                        order = (index - 1) - i
                     }
                 }
 
