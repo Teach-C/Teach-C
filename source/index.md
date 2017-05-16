@@ -1,5 +1,5 @@
 layout: page
-title: Guide
+title: Teach-C
 description:  Welcome Guide
 comments: false 
 ----
