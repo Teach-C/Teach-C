@@ -1,5 +1,5 @@
 ---
-title:  计算机 -- 只懂得0和1的机器
+title:  1.计算机 -- 只懂得0和1的机器
 date:  2017-04-29 17:39:26
 categories:
 - 1 Chapter
