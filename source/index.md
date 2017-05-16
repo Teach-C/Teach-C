@@ -22,8 +22,7 @@ comments: false
 @card{
 
 ## 网址
-Teach-C有好多网址，用的最多的当然是
-[https://Teach-C.xyz](https://Teach-C.xyz) 啦～至于其他的网址，就罗列到下面了：
+Teach-C有好多网址，用的最多的当然是[https://Teach-C.xyz](https://Teach-C.xyz) 啦～至于其他的网址，就罗列到下面了：
 
 > [https://TeachC.xyz](https://TeachC.xyz)
 > [https://teach-c.github.io/](https://teach-c.github.io/) (github page 映像站)
@@ -43,7 +42,7 @@ Teach-C有好多网址，用的最多的当然是
 # 问题反馈
 @card{
 
-如果在阅读中遇到问题请在该文章下的评论区留言，对网站有什么意见，请打开菜单，选择留言板（建设中。。）
+如果在阅读中遇到问题请在该文章下的评论区留言，对网站有什么意见，请打开菜单，选择[Talks](https://teach-c.xyz/talks)
 
 }
  

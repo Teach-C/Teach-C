@@ -20,6 +20,9 @@ menu:
   th-list:
     text: 章节
     url: /categories
+  comments:
+    text: Talks
+    url: /talks
   github:
     url: https://github.com/Teach-C
     target: _blank
