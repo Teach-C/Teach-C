@@ -20,6 +20,9 @@ menu:
   th-list:
     text: 章节
     url: /categories
+  terminal:
+    text: TimeLine
+    url: /TimeLine
   comments:
     text: Talks
     url: /talks
