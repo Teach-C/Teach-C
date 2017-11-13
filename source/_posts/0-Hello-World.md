@@ -57,7 +57,7 @@ tags:
 
  - 加入项目
 
- > 这个项目托管在[github](https://github.com/Funarp/teachC)上，所以，你懂得.
+ > 这个项目托管在[github](https://github.com/Teach-C/Teach-C)上，所以，你懂得.
  
  ## 我需要准备什么？
  
